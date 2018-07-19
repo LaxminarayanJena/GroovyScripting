@@ -9,6 +9,7 @@ public class Employee {
 	Employee(String name, int age, String dept)
 	{
 		this.name=name;
+		//this.globalvariable= localvariable
 		this.age=age;
 		this.dept=dept;
 	}
