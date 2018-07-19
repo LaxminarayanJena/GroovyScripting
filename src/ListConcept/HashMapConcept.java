@@ -23,8 +23,8 @@ public class HashMapConcept {
 		hm.put(3,"testComplete");
 		hm.put(4, "sap");
 		
-		System.out.println(hm.get(1));
-		System.out.println(hm.get(7));// null- no error
+		System.out.println(hm.get(1));//selenium
+		System.out.println(hm.get(7));// null- no error because it doesnot store on indexes
 		
 		for(Entry m:hm.entrySet())
 		{
