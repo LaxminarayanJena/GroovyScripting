@@ -10,3 +10,7 @@
 
 ## MapInterface
 ![11](https://user-images.githubusercontent.com/24494133/42983775-20b9d3a8-8c06-11e8-8573-fd8059f54169.PNG)
+
+## HashMap vs HashTable vs HashSet
+![2](https://user-images.githubusercontent.com/24494133/42985695-37274c88-8c10-11e8-92b5-912f80dbdbc8.PNG)
+
