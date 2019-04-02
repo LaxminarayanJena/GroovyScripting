@@ -14,6 +14,9 @@
 	Set is interface and HashSet is class which implements Set.
 	A TreeSet is a set where the elements are sorted (and thus ordered), a HashSet is a set where the elements are not sorted or ordered.
 	HashSet is typically a lot faster than a TreeSet
+### Difference between listand arraylist <br />
+  
+     List is an interface while ArrayList is a class
 
 
 ## MapInterface
