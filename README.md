@@ -7,6 +7,14 @@
   
 	Array list is faster for iteration compared to linked list
 	Array list is slower for adding and removing of elements compared to linked list
+	
+ ### Difference between set and hashset <br />
+  
+  
+	Set is interface and HashSet is class which implements Set.
+	A TreeSet is a set where the elements are sorted (and thus ordered), a HashSet is a set where the elements are not sorted or ordered.
+	HashSet is typically a lot faster than a TreeSet
+
 
 ## MapInterface
 ![11](https://user-images.githubusercontent.com/24494133/42983775-20b9d3a8-8c06-11e8-8573-fd8059f54169.PNG)
