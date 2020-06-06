@@ -17,7 +17,8 @@
 ### Difference between listand arraylist <br />
   
      List is an interface while ArrayList is a class
-
+### Difference between LinkedHashSet and HashSet <br />
+LinkedHashSet maintains the insertion order. When we iterate through a HashSet, the order is unpredictable
 
 ## MapInterface
 ![11](https://user-images.githubusercontent.com/24494133/42983775-20b9d3a8-8c06-11e8-8573-fd8059f54169.PNG)
