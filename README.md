@@ -5,7 +5,9 @@
   ### Difference between array list and linked list <br />
 
 	Array list is faster for iteration compared to linked list
-	Array list is slower for adding and removing of elements compared to linked list
+	Array list is slower for adding and removing of elements compared to linked list.
+	
+Manipulation with ArrayList is slow because it internally uses an array. If any element is removed from the array, all the bits are shifted in memory.Manipulation with LinkedList is faster than ArrayList because it uses a doubly linked list, so no bit shifting is required in memory.
 
 ### List
 List is an interface and an ordered collection it maintains the insertion order and allow duplicate values
