@@ -20,6 +20,9 @@
 ### Difference between LinkedHashSet and HashSet <br />
 LinkedHashSet maintains the insertion order. When we iterate through a HashSet, the order is unpredictable
 
+### Difference between LinkedHashMap and HashMap <br />
+LinkedHashMap maintains insertion order of keys, order in which keys are inserted in to LinkedHashMap. On the other hand HashMap doesn't maintain any order or keys or values
+
 ## MapInterface
 ![11](https://user-images.githubusercontent.com/24494133/42983775-20b9d3a8-8c06-11e8-8573-fd8059f54169.PNG)
 
