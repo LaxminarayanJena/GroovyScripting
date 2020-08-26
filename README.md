@@ -6,15 +6,17 @@
 
 	Array list is faster for iteration compared to linked list
 	Array list is slower for adding and removing of elements compared to linked list
-	
+
+### List
+List is an interface and an ordered collection it maintains the insertion order and allow duplicate values
 ### Set
 Set is interface.Set is stored in unordered way and does not allow duplicate values. 
 ### HashSet
-HashSet is class which implements Set. elements are not sorted and unordered
+HashSet is class which implements Set. elements are not sorted and unordered .performance better than treeset and linkedhashset
 ### TreeSet
-A TreeSet is a set where the elements are sorted (and thus ordered).Slower than treeset
+A TreeSet is a set where the elements are sorted (and thus ordered).TreeSet performance is better to LinkedHashSet excluding insertion and removal operations because, it has to sort the elements after each insertion and removal operations
 ### LinkedHashSet
-LinkedHashSet maintains the insertion order. When we iterate through a HashSet, the order is unpredictable
+LinkedHashSet maintains the insertion order. When we iterate through a HashSet, the order is unpredictable.The performance of LinkedHashSet is slow to TreeSet. The performance LinkedHashSet is almost similar to HashSet but slower because, LinkedHashSet maintains LinkedList internally to maintain the insertion order of elements
 	
 ### Difference between listand arraylist <br />
   List is an interface while ArrayList is a class
