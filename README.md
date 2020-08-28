@@ -32,4 +32,5 @@ LinkedHashMap maintains insertion order of keys, order in which keys are inserte
 ## HashMap vs HashTable vs HashSet
 ![2](https://user-images.githubusercontent.com/24494133/42985695-37274c88-8c10-11e8-92b5-912f80dbdbc8.PNG)
 
-HashMap allows one null key and multiple null values whereas Hashtable doesn’t allow any null key or value.
+HashMap allows one null key and multiple null values whereas Hashtable doesn’t allow any null key or value.(null pointer exception when u try get)</br>
+if you add duplicate keys in map then previous value will be replaced.no error in hashmap
