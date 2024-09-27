@@ -1,5 +1,7 @@
 # JavaCollections
 
+A HashMap works like a big collection of labeled boxes. When you want to store something, you give it a label (key), and the HashMap finds the right box using a special calculation (hash function). If two things end up in the same box (collision), it stores them in a list inside that box. When you want to find something, it does the same calculation with the label to check the box and looks inside for the exact match. As you add more things, it can grow the number of boxes to keep things organized. </br>
+
 ![1](https://user-images.githubusercontent.com/24494133/42983259-59542568-8c03-11e8-94ef-35683ebfd111.PNG)
 
   ### Difference between array list and linked list <br />
